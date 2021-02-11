@@ -19,3 +19,4 @@ public class PrimerPrograma {
     }
     
 }
+Estic editant el projecte a mode de prova.
